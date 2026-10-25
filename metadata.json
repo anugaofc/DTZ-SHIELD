@@ -1,0 +1,6 @@
+{
+  "name": "DTZ SHIELD",
+  "description": "DTZ SHIELD v2.0.1 — Advanced All-in-One Free Security Suite by UltraDev (Anuga Senithu). Antivirus, Fast Low-Ping SecureLine VPN, Cleanup Premium, AntiTrack, AI Scam/Deepfake Guard, Firewall, and Next-Gen Security Tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
